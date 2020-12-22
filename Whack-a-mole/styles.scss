@@ -1,0 +1,23 @@
+.grid {
+  display: grid;
+  width: 550px;
+  grid-template:
+    's s s'
+    's s s'
+    's s s'
+    / auto auto auto;
+  @media only screen and (max-width: 550px) {
+    width: auto;
+  }
+}
+.square {
+  width: auto;
+  height: 180px;
+  border-style: solid;
+  border-color: black;
+}
+
+.mole {
+  background-image: url('mole.jpg');
+  background-size: cover;
+}

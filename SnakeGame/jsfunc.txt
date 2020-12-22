@@ -1,0 +1,11 @@
+ Learn:
+  • querySelector()
+  • addEventListener()
+  • setInterval()
+  • keyCodes
+  • pop()
+  • unshift()
+  • push()
+  • classList.contains()
+  • classList.add()
+  • classList.remove()
